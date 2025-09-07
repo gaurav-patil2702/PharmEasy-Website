@@ -14,7 +14,7 @@
 * ### Order Confirmation :
 ![](project-images/order_confirmation.png)
 * ### Admin Home :
-![](project-images/admin_home.png)
+![](project-images/admins_home.png)
 * ### Order Details and Mangement :
 ![](project-images/order_details.png)
 * ### Products Details :
