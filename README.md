@@ -35,4 +35,3 @@
 ![](project-images/admin_add.png)
 * ### Edit Admin :
 ![](project-images/admin_edit.png)
-* ### search for admin :
