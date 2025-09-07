@@ -1,5 +1,5 @@
 # PharmEasy.com
-## This project was made for DBMS laboratory subject as a mini project by usining pure php language for 5th semester , which it represent an online pharmacy store.
+## This project was developed as a DBMS Laboratory mini project during the 5th & 6th semester, using pure PHP for implementation. It represents an online pharmacy store that demonstrates database integration and web application development.
 ## Main page:
 ![](project-images/main_page.png)
 ## Functionality
