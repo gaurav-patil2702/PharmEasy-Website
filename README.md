@@ -12,7 +12,7 @@
 * ### Cart :
 ![](project-images/cart.png)
 * ### Order Confirmation :
-![](project-images/Order.png)
+![](project-images/order_confirmation.png)
 * ### Admin Home :
 ![](project-images/admin_home.png)
 * ### Order Details and Mangement :
