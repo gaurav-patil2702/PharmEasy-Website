@@ -3,44 +3,36 @@
 ## Main page:
 ![](project-images/main_page.png)
 ## Functionality
-* ### user log in :
+* ### User Login :
 ![](project-images/user_login.png)
-* ### user sign up :
+* ### User Signup :
 ![](project-images/user_signup.png)
-* ### search :
-![](project-images/Search.png)
-* ### product :
+* ### Product :
 ![](project-images/product_details.png)
-* ### cart :
+* ### Cart :
 ![](project-images/cart.png)
-* ### order confirmation :
-![](project-image/order.png)
-* ### admin home :
+* ### Order Confirmation :
+![](project-images/order_confirm.png)
+* ### Admin Home :
 ![](project-images/admin_home.png)
-* ### admin log in :
-![](project-images/admin_login.png)
-* ### orders details and mangement :
+* ### Order Details and Mangement :
 ![](project-images/order_details.png)
-* ### Products details :
+* ### Products Details :
 ![](project-images/product_details.png)
-* ### add new Product :
+* ### Add New Product :
 ![](project-images/product_add.png)
-* ### edit Product :
+* ### Edit Product :
 ![](project-images/product_edit.png)
-* ### search for Product :
+* ### Search for Product :
 ![](project-images/Search.png)
-* ### customers details :
+* ### Customers Details :
 ![](project-images/customer_details.png)
-* ### edit customer :
+* ### Edit Customer :
 ![](project-images/customer_edit.png)
-* ### search for customer :
-![](project-images/customer_search.p)
-* ### admins details :
+* ### Admins Details :
 ![](project-images/admin_details.png)
-* ### add new admin account :
+* ### Add New Admin Account :
 ![](project-images/admin_add.png)
-* ### edit admin :
+* ### Edit Admin :
 ![](project-images/admin_edit.png)
 * ### search for admin :
-![](project-images/admins_search.png)
-### the infront-end has done with help of @mdfaisalahmed057
